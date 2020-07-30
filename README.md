@@ -2,7 +2,7 @@
 
 Motivation: #AllLivesMatter is generally thought to be a critique or counter to the #BlackLivesMatter movement. Furthermore, there is a general misalignment and misunderstanding of the #AllLivesMatter movement. This project soughts to clarify and characterize this platform using NLP and Vader sentiment analysis of Twitter tweets with the hashtag #AllLivesMatter.
 
-This github contains the files and ipynb notebooks necessary to reproduce my results. NOTE: these files are in the jeffng branch, NOT the master branch.
+This github contains the files and ipynb notebooks necessary to reproduce my results. NOTE: these files are in the jeffng branch, NOT the master branch. The main notebooks containing my code are WorkNB_Viz.ipynb and Modeling_NB_NLP.ipynb
 
 NECESSARY FILES:
 
