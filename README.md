@@ -18,4 +18,4 @@ EDA Through EDA, I created frequency distribution graphs of the words in each se
 
 Model A dummy classifier was fitted and tested first. Then Random Forest, Multinomial Naive Bayes, and SVM with a 'linear' kernel. Other kernels were fitted as well with the 'rgb' and 'linear' doing the best while 'poly' and 'sigmoid' produced predictions in the 30% range. All three models had an f1 and accuracy score of 88-90%
 
-Conclusion #AllLivesMatter can be characterized to be a Conservative/Nationalist reactionary movement to #BlackLivesMatter. The tweet analysis shows that the messages were polarized and opinionated. With the social case established, next steps for the individual should be to investigate what both sides really have to say and to sympathize for one another.
+Conclusion #AllLivesMatter can be characterized to be a Conservative/Nationalist reactionary movement to #BlackLivesMatter. The tweet analysis shows that the messages were polarized and opinionated. With the social case established, next steps for the individual should be to investigate the message behind both sides and to sympathize for one another.
