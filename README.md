@@ -9,9 +9,9 @@ Not depressed word cloud
 ![Screen Shot 2020-10-02 at 9 33 57 AM](https://user-images.githubusercontent.com/59067730/94929920-b5b25900-0493-11eb-9bad-ac4d546a49f0.png)
 
 Depressed word cloud
-![Screen Shot 2020-10-02 at 9 38 14 AM](https://user-images.githubusercontent.com/59067730/94930489-7afcf080-0494-11eb-92b9-4eba83d19720.png)
+![Screen Shot 2020-10-02 at 9 51 08 AM](https://user-images.githubusercontent.com/59067730/94931065-4d647700-0495-11eb-8819-68af54a35abe.png)
 
 
-Upsampling was done to account for class imbalancea and the best model obtained was the Logistic Regression model which predicted depression up to a 86% accuracy/F1/recall. The multinomial Naive Bayes fared second with an 80% accuracy/F1/recall.
+Upsampling was done to account for class imbalance and the best model obtained was the Logistic Regression model which predicted depression up to a 86% accuracy/F1/recall. The multinomial Naive Bayes fared second with an 80% accuracy/F1/recall.
 
 With a 86% F1/recall/accuracy score this model can be used in conjunction with other pyschological diagnostics to predict depression in individuals. Recall is important in our case because it gives us the rate where depression is not predicted when in fact there is. This metric is called false negatives and failure to address this would mean individuals are not being diagnosed when in fact they do suffer from depression. These individuals will not be getting any treatment for their condition under this circumstance 
