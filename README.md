@@ -16,4 +16,4 @@ Upsampling was done to account for class imbalance and the best model obtained w
 
 With a 86% F1/recall/accuracy score this model can be used in conjunction with other pyschological diagnostics to predict depression in individuals. Recall is important in our case because it gives us the rate where depression is not predicted when in fact there is. This metric is called false negatives and failure to address this would mean individuals are not being diagnosed when in fact they do suffer from depression. These individuals will not be getting any treatment for their condition under this circumstance.
 
-A Flask front-end interface where the user can input text and have diagnostic of 'depression' or not will be deployed soon. 
+A Flask front-end interface where the user can input description of how he/she is feeling that day, and have diagnostic of 'depression' or not and a overall score, will be deployed soon.  
